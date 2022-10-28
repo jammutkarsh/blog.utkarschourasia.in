@@ -3,7 +3,6 @@ title: DevOps In Daily Life Part 2
 date: 2022/10/5
 description: Automation of G-Suite by writng some scrips. Part 2
 author: Utkarsh Chourasia
-/* image: https://shud-og.vercel.app/api/og?title=Notes%20on%20A%20Programmable%20Web%20by%20Aaron%20Swartz. */
 ---
 
 In [part 1](/posts/DevOpsInDailyLife1)  we learnt about a workflow problem. In this, the 2nd part we are going to solve it, using some JavaScript code!

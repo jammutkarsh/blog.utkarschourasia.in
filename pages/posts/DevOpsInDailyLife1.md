@@ -3,7 +3,6 @@ title: DevOps In Daily Life Part 1
 date: 2022/10/5
 description: Automation of G-Suite by writng some scrips. Part 1
 author: Utkarsh Chourasia
-/* image: https://shud-og.vercel.app/api/og?title=Notes%20on%20A%20Programmable%20Web%20by%20Aaron%20Swartz. */
 ---
 
 The time of year when I am applying to several internships. I'm browsing several blogs, YouTube videos, and feedback from various sources. To get the perfect output of "How to create the ideal resume and cover letter?" This is not a blog where I teach you how to write the perfect the professional documents(**pro-docs** like resumes and cover-letters). Instead I will help you save some time
@@ -28,7 +27,4 @@ The above tedious and repetitive tasks are all over! Right? No, this creates a n
 
 The monotonous, dull, burdensome, boring, tedious tasks that I mentioned, these can be automated!
 
-![Mentos Life](/images/DevOpsInDailyLife1/MentoLife.jpeg)
-_DevOps Zindagi*_
-
-See [Part 2](/posts/DevOpsInDailyLife2)
+See [Part 2](/posts/DevOpsInDailyLife2) for implementation.

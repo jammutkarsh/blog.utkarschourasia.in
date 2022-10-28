@@ -7,28 +7,16 @@ export default {
         <meta name="title" content={meta.title} />
         <meta property="description" content={meta.description} />
         <meta name="author" content="Utkarsh Chourasia" />
-        {/* <link rel="canonical" href="www.utkarshchourasia.in" /> */}
         <meta property="og:type" content="Blog" />
         <meta property="og:title" content={meta.title} />
         <meta property="og:description" content={meta.description} />
         <meta property="og:url" content="https://blog.utkarshchourasia.in/" />
-        <meta
-          property="og:image"
-          content={meta.image || ""}
-        // content={meta.image || "https://shud.in/logo.png"}
-        />
-        <meta
-          property="twitter:card"
-          content={meta.image ? "summary_large_image" : "summary"}
-        />
-        <meta property="twitter:site" content="@JammUtkarsh" />
+        <meta property="og:image" content="/images/metaTag.png" />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://blog.utkarshchourasia.in/" />
         <meta property="twitter:title" content={meta.title} />
         <meta property="twitter:description" content={meta.description} />
-        <meta property="twitter:url" content="https://twitter.com/JammUtkarsh" />
-        <meta
-          property="twitter:image"
-        // content={meta.image || ""}
-        />
+        <meta property="twitter:image" content="/images/metaTag.png" />
       </>
     )
   },

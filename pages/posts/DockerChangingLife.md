@@ -3,7 +3,6 @@ title: 3 ways Docker changed my life!
 date: 2022/06/12
 description: Containerisation technology as a whole can be leveraged to reap multiple benefits.
 author: Utkarsh Chourasia
-/* image: localhost:3000/api/og?title=Notes%20on%20A%20Programmable%20Web%20by%20Aaron%20Swartz.
 ---
 
 My goal with this article is to motivate you to try a new technology or maybe use it in a more personal way(than the usual 'this will get me a job' way).
@@ -20,7 +19,7 @@ One of the steps to becoming a 'DevOps Engineer' I had to be comfortable with GN
 
 I liked the methodology so much that I format my mac, and
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Now my laptop is full of containers and images rather than packages. 😶</p>&mdash; Utkarsh (@JammUtkarsh) <a href="https://twitter.com/JammUtkarsh/status/1463160276828700685?ref_src=twsrc%5Etfw">November 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Now my laptop is full of containers and images rather than packages. 😶</p>&mdash; Utkarsh (@JammUtkarsh) <a href="https://twitter.com/JammUtkarsh/status/1463160276828700685?ref_src=twsrc%5Etfw">November 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So let's get started 🏁🏁🏁
 
